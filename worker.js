@@ -1,5 +1,5 @@
 // KV Namespace 绑定
-const API_BASE_URL = 'https://msoauth.unix.xin/api';
+const API_BASE_URL = 'https://msoauth2api-six.vercel.app/api';
 const allowedMailboxes = ['INBOX', 'Junk'];
 
 // Logo URL
